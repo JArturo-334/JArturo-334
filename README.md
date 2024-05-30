@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm José Arturo</h1>
-<h3 align="center">A Software Engineering Student</h3>
+<h3 align="center">A Software Engineer I</h3>
 
-- 🎓 I’m currently learning **NodeJS, Python, React**
+- 🎓 I’m currently learning **NodeJS, Python, React, Playwright**
 
 - 📫 How to reach me **swdev.arturo.cb@gmail.com**
 
